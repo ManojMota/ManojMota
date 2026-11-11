@@ -33,6 +33,7 @@ My research interests include:
 ## 🧑‍🏫 Teaching & Open Educational Resources
 I am interested in developing and sharing educational resources that connect fundamental engineering concepts with practical applications.
 **Key teaching areas:**
+
 - Environmental Studies and Sustainable Development
 - Environmental Engineering
 - Air Pollution and Control
@@ -42,6 +43,7 @@ I am interested in developing and sharing educational resources that connect fun
 - Introduction to Emerging Technologies
 This GitHub profile will progressively host lecture presentations, technical notes, datasets, worked examples, practical exercises, and other learning resources for students, educators, and engineering professionals.
 ## 💡 Innovation, Projects & Consultancy
+
 My academic and innovation activities include:
 - Development of sustainable construction materials using foundry waste and other industrial by-products.
 - Design and development of low-cost water purification systems.
@@ -60,5 +62,7 @@ I welcome opportunities for collaboration in:
 - Student innovation, interdisciplinary projects, and technology development.
 ## 🌐 Let's Connect and Share Knowledge!
 I look forward to connecting with academicians, researchers, students, industry professionals, and institutions working towards sustainable engineering solutions.
+
 **Research | Education | Innovation | Sustainability**
+
 *Engineering knowledge for a sustainable future.*
