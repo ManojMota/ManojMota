@@ -3,6 +3,17 @@
 ## Welcome to my GitHub profile!
 
 I am an academic professional with **25+ years of experience in teaching and industry**, working in the fields of Civil Engineering, Environmental Engineering, sustainability, research, and technological innovation. My professional interests focus on connecting engineering education, applied research, sustainable development, and emerging technologies to address real-world challenges.
+
+
+## 📚 Open Educational Resources
+
+### Environmental Studies – Learning Resources
+
+A collection of module-wise presentations, lecture notes, case studies, datasets, and practical learning activities for undergraduate engineering students.
+
+**Explore the repository:** [Environmental Studies – Learning Resources](https://github.com/ManojMota/environmental-studies-learning-resources)
+
+*Focus areas: Sustainability | SDGs | Climate Change | Pollution Control | Environmental Management*
 ---
 ## 🎓 Academic & Professional Profile
 - **Head of Department – Civil Engineering**, Annasaheb Dange College of Engineering and Technology (ADCET), Ashta, Maharashtra, India.
