@@ -1,6 +1,7 @@
 # Dr. Manoj H. Mota
 ### Academic Professional | Civil & Environmental Engineering | Research | Sustainability | Innovation
-Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
+
 I am an academic professional with **25+ years of experience in teaching and industry**, working in the fields of Civil Engineering, Environmental Engineering, sustainability, research, and technological innovation. My professional interests focus on connecting engineering education, applied research, sustainable development, and emerging technologies to address real-world challenges.
 ---
 ## 🎓 Academic & Professional Profile
